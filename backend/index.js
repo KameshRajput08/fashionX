@@ -11,6 +11,7 @@ import stripeRoute from "./routes/payment.js";
 import WishlistRoute from "./routes/Wishlist.js";
 import orderRoute from "./routes/orderRoute.js";
 import paymentRoute from "./routes/payment.js";
+import path from "path";
 
 const app = express();
 app.use(cors());
