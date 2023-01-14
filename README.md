@@ -1,6 +1,6 @@
 # fashionX
 # FASHIONX- mern e-commerce app
-## DEMO: [https://fashionx.onrender.com/](https://fashionx.onrender.com/)
+## DEMO: [https://fashionx.onrenderabc.com/](https://fashionx.onrender.com/)
 
 # Getting Started with Create React App
 
